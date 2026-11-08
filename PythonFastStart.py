@@ -94,4 +94,4 @@ while True:
     elif user_choice == "4":
         break
     else:
-        print ("that command is not recognized, try: \"1 - add amount of money\" / \"2 - add spendings\", or type \"3\" to leave ") 
+        print ("that command is not recognized, try again.") 
