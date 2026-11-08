@@ -15,4 +15,4 @@ A lightweight, dependency-free command-line application for tracking personal fi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/JecaDev-afk/Console-Expense-Tracker>
